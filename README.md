@@ -121,7 +121,7 @@ financial-health-project/
 ### Étape 1: Cloner le projet
 
 ```bash
-git clone <votre-repo>
+git clone <https://github.com/FidanTheNoticer/Fidan_Sherifi_Project/tree/main>
 cd financial-health-project
 ```
 
