@@ -77,6 +77,7 @@ Copier le code
 
 ## 🗂️ Project Structure
 
+```text
 financial-health-project/
 ├── README.md # This file
 ├── requirements.txt # Python dependencies
@@ -106,7 +107,8 @@ financial-health-project/
 │ ├── feature_importance.png
 │ └── class_distribution.png
 │
-└── notebooks/ # (optional) Exploratory analyses```
+└── notebooks/ # (optional) Exploratory analyses
+```
 
 ---
 
